@@ -1,3 +1,21 @@
 body{
     background: #f5d9d5;
+    font-family: "Nunito", sans-serif;
 }
+/* Changing the font for all the navLinks */
+ #mainNavbar{
+   font-size:1.5rem;
+     font-weight: 100;
+ }
+ #mainNavbar .nav-link{
+color: white;
+ }
+ /* applying color to the font when we hover */
+  #mainNavbar .nav-link:hover {
+      color:#ea1c2c;
+  }
+/* Changing the color of the Candy in the navbar */
+ #mainNavbar .navbar-brand{ 
+     color:#ea1c2c;
+ }
+ 
