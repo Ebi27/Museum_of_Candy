@@ -55,10 +55,3 @@ color: white;
   display: flex;
   align-items: center;
  }
-/* Shrinking text */
- @media (max-width:1200px){
-#heading h1{
-    font-weight:100;
-      font-size: 4rem;
-}
- }
